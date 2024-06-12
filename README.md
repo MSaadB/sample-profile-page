@@ -1,1 +1,1 @@
-# sample-profile-page
+# coding-project-template
