@@ -11,3 +11,5 @@ A single page Portfolio website using HTML5, CSS & Javascript having the followi
 Credits:
 
 Coursera, IBM, Lavanya
+
+***information contained on the site are not necessarily true. it is for illustrative purposes.***
