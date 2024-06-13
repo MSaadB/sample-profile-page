@@ -8,6 +8,8 @@ A single page Portfolio website using HTML5, CSS & Javascript having the followi
 *Recommendations
 ```
 
+This is also a demonstration of using the Pages feature on GitHub.
+
 Credits:
 
 Coursera, IBM, Lavanya
